@@ -12,9 +12,12 @@
   <p> Atualmente, estou imerso no estudo de arquitetura de sistemas, explorando os fundamentos do princípio SOLID. Meu objetivo é dominar esses conceitos para poder desenvolver sistemas que possam facilmente incorporar novas funcionalidades sem introduzir bugs.</p>
 </div>
 
-<h3>Linguagens que utilizo <img src="./mask.gif" height="50px"/></h3>
+<h3>Linguagens que utilizo <img src="./triforce.gif" height="50px"/></h3>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" height="50px"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px" height="50px" />
+          
 </div>
 
 
