@@ -1,12 +1,21 @@
 # Olá, meu nome é Richard. Bem-vindo ao meu perfil pessoal! 👋
 
 
-<h3>Um pouco sobre mim <img src="https://64.media.tumblr.com/tumblr_m9wi0mFCXT1rfjowdo1_500.gif" height="50px"/></h3>
+<h3>Um pouco sobre mim <img src="./link.gif" height="50px"/></h3>
 <div align="justify">
-  <p >Sou graduado em <b>Análise e Desenvolvimento de Sistemas pela FATEC de Ferraz de Vasconcelos</b> e atualmente atuo como desenvolvedor web no INCOR. Nas horas vagas, dedico-me a estudar diversos tópicos relacionados ao desenvolvimento de software, buscando constantemente aprimorar minhas habilidades para contribuir ainda mais para os sistemas nos quais estou envolvido. Além disso, tenho uma paixão por videogames, especialmente RPGs.</p>
+  <p>Sou graduado em <b>Análise e Desenvolvimento de Sistemas pela FATEC de Ferraz de Vasconcelos</b> e atualmente atuo como desenvolvedor web no INCOR. Nas horas vagas, dedico-me a estudar diversos tópicos relacionados ao desenvolvimento de software, buscando constantemente aprimorar minhas habilidades para contribuir ainda mais para os sistemas nos quais estou envolvido. Além disso, tenho uma paixão por videogames, especialmente RPGs.</p>
 </div>
 
-<h3>O que estou estudando no momento <img src="https://pa1.aminoapps.com/6197/6d66fa684a74d83bdd51e53bc01eb34fa64fb7aa_00.gif" height="50px"/></h3>
+<h3>O que estou estudando no momento <img src="./mask.gif" height="50px"/></h3>
+
+<div align="justify">
+  <p> Atualmente, estou imerso no estudo de arquitetura de sistemas, explorando os fundamentos do princípio SOLID. Meu objetivo é dominar esses conceitos para poder desenvolver sistemas que possam facilmente incorporar novas funcionalidades sem introduzir bugs.</p>
+</div>
+
+<h3>Linguagens que utilizo <img src="./mask.gif" height="50px"/></h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />          
+</div>
 
 
 
