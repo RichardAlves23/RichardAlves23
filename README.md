@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Richard. Bem-vindo ao meu perfil pessoal! <img src="./master-sword-2.gif" height="50px"/></h1>
+<h1>Olá, meu nome é Richard <img src="./master-sword-2.gif" height="50px"/></h1>
 
 <h3>Um pouco sobre mim <img src="./link.gif" height="50px"/></h3>
 <div align="justify">
@@ -25,6 +25,6 @@
 <br/>
 <div>
   <a href="https://github.com/RichardAlves23">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardAlves23&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardAlves23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardAlves23&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=RichardAlves23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
